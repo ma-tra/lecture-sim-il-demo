@@ -3,7 +3,11 @@ This is a demo repository to demonstrate the use of git
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+<<<<<<< HEAD
 Copyright 2020 Traninger Matthias
+=======
+Copyright 2020 Matthias Traninger
+>>>>>>> newbranch
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
