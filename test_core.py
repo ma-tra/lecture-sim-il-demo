@@ -1,9 +1,12 @@
-from core import foo		"""Whole Funktion Foo aus Package Core"""
+from core import foo		
+"""Whole Funktion Foo aus Package Core"""
 
-def test_foo():			"""Name markiert Funktion als Testfunktion"""
-	assert foo(2) == 3 	"""Testet Funktio und schaut ob Funktion den richtigen Wert ausgibt"""
+"""Name markiert Funktion als Testfunktion"""
+def test_foo():			
+    assert foo(2) == 3
+"""Testet Funktion und schaut ob Funktion den richtigen Wert ausgibt"""
 
-"""Ausführen des Tests in Python Konsole mit programm pytest"""
 
+"""Ausführen des Tests in Python Konsole mit Programm pytest"""
 def test_foo_two_args():
-	assert foo(2,3) == 6
+    assert foo(2,3) == 6
