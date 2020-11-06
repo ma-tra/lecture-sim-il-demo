@@ -1,4 +1,4 @@
-from core import foo		"""Hole Funktion Foo aus Package Core"""
+from core import foo		"""Whole Funktion Foo aus Package Core"""
 
 def test_foo():			"""Name markiert Funktion als Testfunktion"""
 	assert foo(2) == 3 	"""Testet Funktio und schaut ob Funktion den richtigen Wert ausgibt"""
