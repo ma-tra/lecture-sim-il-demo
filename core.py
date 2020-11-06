@@ -1,3 +1,3 @@
-def foo(x):
+def foo(x,y):
 	"""Add 1 to x"""
-	return x+1
+	return x+y+1
